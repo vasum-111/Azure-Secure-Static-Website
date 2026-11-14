@@ -5,7 +5,7 @@
 
 A small static site with a real edge-security design: global delivery, a WAF and a private Blob Storage origin.
 
-**[Open browser preview](https://vasum-111.github.io/azure-secure-static-website/)** · **[Deployment guide](DEPLOYMENT.md)** · **[Operations & tradeoffs](OPERATIONS.md)**
+**[Open browser preview](https://vasum-111.github.io/Azure-Secure-Static-Website/)** · **[Deployment guide](DEPLOYMENT.md)** · **[Operations & tradeoffs](OPERATIONS.md)**
 
 > **Deployment status:** the public browser preview is static hosting on GitHub Pages. It displays the website content. Azure resources have **not** been provisioned; cloud deployment awaits subscription access and cost approval. Bicep compilation and local tests are validation, not evidence of a successful Azure deployment.
 
